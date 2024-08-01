@@ -1,0 +1,12 @@
+Id,Description ,DateRegistered,IsResolved,AffectedEquipment,Responsible ,Comments
+1,Error en sistema de inspección,2024-01-10T00:00:00,FALSE,Máquina de inspección A,Juan Perez,Pendiente de revisión
+2,Falla en red de comunicaciones,2024-02-15T00:00:00,TRUE,Router B,Ana Gómez,"Resuelto, cambio de cable"
+3,Actualización fallida del software de control,2024-03-20T00:00:00,FALSE,Servidor C,Luis Torres,Esperando parche del proveedor
+4,Corte de energía en línea de inspección,2024-04-25T00:00:00,TRUE,Línea 1,Marta Ruiz,"Resuelto, revisión técnica"
+5,Sobrecalentamiento en máquina de medición,2024-05-30T00:00:00,FALSE,Máquina de medición E,Carlos Lima,Verificar ventilación
+6,Mal funcionamiento del equipo de pruebas,2024-06-05T00:00:00,TRUE,Switch F,Diana Castillo,"Resuelto, reinicio del equipo"
+7,Configuración errónea del sistema de control,2023-07-10T00:00:00,FALSE,Router G,Pedro Blanco,Necesita reconfiguración
+8,Ataque de malware en servidor de datos,2023-08-15T00:00:00,TRUE,Servidor H,Lucía Ramírez,"Resuelto, limpieza realizada"
+9,Problema de compatibilidad en software de análisis,2023-09-20T00:00:00,FALSE,Servidor I,Fernando Moreno,Actualización pendiente
+10,Fallo en disco duro del sistema,2023-09-20T00:00:00,TRUE,Servidor J,Sofía Muñoz,"Resuelto, reemplazo de disco"
+11,Fallo en sensor de temperatura,2023-11-05T00:00:00,FALSE,Sensor de temperatura K,María Fernández,Requiere reemplazo

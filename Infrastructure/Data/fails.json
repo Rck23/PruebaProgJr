@@ -1,0 +1,101 @@
+[
+  {
+
+    "Description": "Error en sistema de inspección: El sistema de inspección ha dejado de funcionar correctamente, mostrando errores intermitentes que impiden la correcta evaluación de los productos en la línea de ensamblaje.",
+    "DateRegistered": "2024-01-10T08:33:23",
+    "IsResolved": false,
+    "AffectedEquipment": "Máquina de inspección A",
+    "Responsible": "Juan Perez",
+    "Comments": "Pendiente de revisión por el equipo técnico especializado. Se notificó al proveedor para obtener asistencia adicional."
+  },
+  {
+
+    "Description": "Falla en red de comunicaciones: La red de comunicaciones experimentó una interrupción debido a un problema con el router principal, afectando la conectividad de todos los dispositivos de la planta.",
+    "DateRegistered": "2024-02-15T11:50:12",
+    "IsResolved": true,
+    "AffectedEquipment": "Router B",
+    "Responsible": "Ana Gómez",
+    "Comments": "Resuelto, cambio de cable. Se realizaron pruebas adicionales para asegurar la estabilidad de la red."
+  },
+  {
+
+    "Description": "Actualización fallida del software de control: La actualización del software de control no se completó correctamente, causando problemas en la sincronización de los datos y la operación de los equipos conectados.",
+    "DateRegistered": "2024-03-20T13:10:54",
+    "IsResolved": false,
+    "AffectedEquipment": "Servidor C",
+    "Responsible": "Luis Torres",
+    "Comments": "Esperando parche del proveedor. Se ha implementado una solución temporal para minimizar el impacto en las operaciones."
+  },
+  {
+
+    "Description": "Corte de energía en línea de inspección: Un corte de energía inesperado afectó la línea de inspección, deteniendo la producción y causando potenciales daños en los equipos eléctricos.",
+    "DateRegistered": "2024-04-25T23:17:45",
+    "IsResolved": true,
+    "AffectedEquipment": "UPS D",
+    "Responsible": "Marta Ruiz",
+    "Comments": "Revisión técnica realizada. Se recomendó la instalación de un sistema de respaldo de energía más robusto."
+  },
+  {
+
+    "Description": "Sobrecalentamiento en máquina de medición: La máquina de medición ha estado funcionando a temperaturas más altas de lo normal, lo que podría indicar un problema con el sistema de ventilación o el enfriamiento interno.",
+    "DateRegistered": "2024-05-30T15:11:38",
+    "IsResolved": false,
+    "AffectedEquipment": "Máquina de medición E",
+    "Responsible": "Carlos Lima",
+    "Comments": "Verificar ventilación. Se está monitoreando la temperatura y se ha programado una inspección detallada del sistema de enfriamiento."
+  },
+  {
+
+    "Description": "Mal funcionamiento del equipo de pruebas: El equipo de pruebas no está operando de manera óptima, presentando fallos en la detección de componentes durante el proceso de verificación de calidad.",
+    "DateRegistered": "2024-06-05T18:22:41",
+    "IsResolved": true,
+    "AffectedEquipment": "Switch F",
+    "Responsible": "Diana Castillo",
+    "Comments": "Reinicio del equipo. Se verificó la configuración del sistema para evitar futuros fallos."
+  },
+  {
+
+    "Description": "Configuración errónea del sistema de control: La configuración actual del sistema de control está provocando errores en la administración de la red, afectando el rendimiento y la estabilidad de los procesos.",
+    "DateRegistered": "2024-07-10T21:35:10",
+    "IsResolved": false,
+    "AffectedEquipment": "Router G",
+    "Responsible": "Pedro Blanco",
+    "Comments": "Necesita reconfiguración. Se está coordinando con el equipo de TI para una revisión completa de la configuración del sistema."
+  },
+  {
+
+    "Description": "Ataque de malware en servidor de datos: Un ataque de malware ha comprometido la seguridad del servidor de datos, resultando en la pérdida temporal de acceso a información crítica y posible corrupción de archivos.",
+    "DateRegistered": "2023-08-15T17:43:50",
+    "IsResolved": true,
+    "AffectedEquipment": "Servidor H",
+    "Responsible": "Lucía Ramírez",
+    "Comments": "Limpieza realizada. Se implementaron medidas adicionales de seguridad y se realizó una auditoría de seguridad."
+  },
+  {
+
+    "Description": "Problema de compatibilidad en software de análisis: El software de análisis presenta problemas de compatibilidad con los nuevos módulos instalados, causando errores en la interpretación y visualización de los datos.",
+    "DateRegistered": "2023-09-20T22:59:19",
+    "IsResolved": false,
+    "AffectedEquipment": "Servidor I",
+    "Responsible": "Fernando Moreno",
+    "Comments": "Actualización pendiente. Se ha solicitado una versión compatible del software al proveedor."
+  },
+  {
+
+    "Description": "Fallo en disco duro del sistema de calidad: El disco duro del sistema de calidad ha fallado, resultando en la pérdida de datos importantes y la necesidad de un reemplazo urgente para reanudar las operaciones.",
+    "DateRegistered": "2023-10-25T14:08:49",
+    "IsResolved": true,
+    "AffectedEquipment": "Servidor J",
+    "Responsible": "Sofía Muñoz",
+    "Comments": "Reemplazo de disco. Se realizaron copias de seguridad adicionales para prevenir futuras pérdidas de datos."
+  },
+  {
+
+    "Description": "Fallo en sensor de temperatura: El sensor de temperatura no está funcionando correctamente, proporcionando lecturas incorrectas que podrían afectar el control de los procesos térmicos.",
+    "DateRegistered": "2023-11-05T10:15:38",
+    "IsResolved": false,
+    "AffectedEquipment": "Sensor de temperatura K",
+    "Responsible": "María Fernández",
+    "Comments": "Requiere reemplazo. Se está evaluando la adquisición de un sensor de temperatura de alta precisión como reemplazo."
+  }
+]
